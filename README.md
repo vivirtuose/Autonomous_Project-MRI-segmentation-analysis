@@ -2,10 +2,6 @@
 
 Pipeline modulaire de segmentation automatique de tumeurs cérébrales (glioblastomes) à partir d'IRM multi-modales. Utilise le dataset UPENN-GBM de TCIA et le modèle nnU-Net pré-entraîné sur BraTS 2021.
 
-## Contexte
-
-Ce projet s'inscrit dans le cadre d'un stage de recherche (Rennes 2025) sur le projet EpiBrainRad, portant sur l'analyse dose-réponse des anomalies radio-induites de la substance blanche chez les patients atteints de glioblastome traités par radiothérapie. Le pipeline permet d'automatiser la segmentation des tumeurs cérébrales pour l'analyse statistique ultérieure.
-
 ## Architecture du pipeline
 
 ```
